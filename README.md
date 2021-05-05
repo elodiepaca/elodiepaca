@@ -3,7 +3,7 @@
 
 <img width="400" alt="hello" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
-*Ce profil est fictif pour montrer les différentes fonctions de Github à des apprenants*
+*Ce profil est fictif*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elodiepaca&label=Profile%20views&color=0e75b6&style=flat" alt="elodiepaca" /> </p>
 
